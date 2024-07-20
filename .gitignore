@@ -12,5 +12,3 @@ db.sqlite3
 settings.py
 manage.py
 
-*.log
-.DS_Store
