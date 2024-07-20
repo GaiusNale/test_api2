@@ -1,0 +1,16 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+.tox/
+.venv
+
+# Django
+*.sqlite3
+db.sqlite3
+settings.py
+manage.py
+
+*.log
+.DS_Store
